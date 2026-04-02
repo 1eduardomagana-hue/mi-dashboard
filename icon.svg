@@ -1,0 +1,4 @@
+#!/usr/bin/env python3
+# Script to generate placeholder icons - run once locally if needed
+# For Vercel deployment, icons are auto-generated via the SVG below
+print("Icons should be placed as icon-192.png and icon-512.png in /public")
